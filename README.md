@@ -8,3 +8,5 @@ The Java Cloudant Web Starter demonstrates how to use the Bluemix Cloudant NoSQL
 * See src/example/nosql/AttachServlet.java for the file upload API
 * See src/example/noqsl/ResourceServlet.java for the file CRUD API
 * See WebContent/index.js and WebContent/util.js for how the front-end calls the back-end API
+
+### or leaving
